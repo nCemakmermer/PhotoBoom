@@ -2,12 +2,12 @@
 
 -ASP.NET MVC 5 Upload File and CRUD System
 
-Tools
-Microsoft.EntityFrameworkCore
-Microsoft.EntityFrameworkCore.SqlServer
-Microsoft.EntityFrameworkCore.Tools
-Microsoft.EntityFrameworkCore.Sqlite
-Microsoft.EntityFrameworkCore.Desing (optionally)
+#Tools
+-Microsoft.EntityFrameworkCore
+-Microsoft.EntityFrameworkCore.SqlServer
+-Microsoft.EntityFrameworkCore.Tools
+-Microsoft.EntityFrameworkCore.Sqlite
+-Microsoft.EntityFrameworkCore.Desing (optionally)
 
 I recommend you to use version 3.1.15 so that you don't get any errors during installation, all of tools
 
