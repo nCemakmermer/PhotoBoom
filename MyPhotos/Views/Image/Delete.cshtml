@@ -1,0 +1,38 @@
+﻿@model MyPhotos.Models.ImageModel
+
+@{
+    ViewData["Title"] = "Delete";
+}
+
+
+
+    <hr />
+    <dl style="margin-left: auto; margin-right: auto; text-align: center;">
+
+        <dd class=display-4>
+            <b> @Html.DisplayFor(model => model.Title)</b>
+        </dd>
+
+      <d2 style="margin-left: auto; margin-right: auto; text-align: center;>
+
+    <dd class="col-sm-10">
+    @Html.DisplayFor(model => model.Tags)
+</dd>
+          </d2>
+    </dl>
+<br />
+<br />
+    <div width="120" height="100" style="vertical-align:middle; text-align:center">
+        <img src="@("~/image/"+Model.ImageName)" asp-append-version="true" width="500" height="500" />
+
+        <br />
+        <br />
+        <br />
+    </div>
+    <div align="center">
+        <form asp-action="Delete">
+            <input type="hidden" asp-for="ImageId" />
+            <input type="submit" value="Delete" class="btn btn-danger" /> |
+            <a asp-action="Index">My Page</a>
+        </form>
+    </div>
