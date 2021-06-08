@@ -9,6 +9,8 @@ Microsoft.EntityFrameworkCore.Tools
 Microsoft.EntityFrameworkCore.Sqlite
 Microsoft.EntityFrameworkCore.Desing (optionally)
 
+I recommend you to use version 3.1.15 so that you don't get any errors during installation, all of tools
+
 How to start !
 
 
