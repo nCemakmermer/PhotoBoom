@@ -1,4 +1,4 @@
-*# Cem Akmermer
+# Cem Akmermer
 
 - ASP.NET MVC 5 Upload File and CRUD System
 
@@ -9,7 +9,7 @@
 - Microsoft.EntityFrameworkCore.Sqlite
 - Microsoft.EntityFrameworkCore.Desing (optionally)
 
-+ recommend you to use version 3.1.15 so that you don't get any errors during installation, all of tools
+## !!! recommend you to use version 3.1.15 so that you don't get any errors during installation, all of tools
 
 How to start !
 
