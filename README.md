@@ -21,3 +21,9 @@ How to start !
 4.Update-Database
 
 Enjoy !
+
+Screen Shots 
+![homepage](https://user-images.githubusercontent.com/77552209/121265970-62b26080-c8c2-11eb-87af-ad954bb7c22b.png)
+![mypage](https://user-images.githubusercontent.com/77552209/121265971-62b26080-c8c2-11eb-8d5d-935a493f984d.png)
+![delete](https://user-images.githubusercontent.com/77552209/121265949-5928f880-c8c2-11eb-95a8-de243a409d38.png)
+![last](https://user-images.githubusercontent.com/77552209/121265965-61813380-c8c2-11eb-869f-9ca654235adf.png)
